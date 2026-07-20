@@ -7,5 +7,5 @@ while True:
     if letra in "aeiou":
         print("Vocal")
     else:
-        print("No Vocal")
+        print("Consonante")
 print("Programa finalizado")
